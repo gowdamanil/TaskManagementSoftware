@@ -79,6 +79,8 @@ JSON
 URL: DELETE /api/v1/tasks/{id}
 
 Response: 204 No Content
+
+
 Note: Make sure you actually enable Annotation Processing in your IDE (IntelliJ or Eclipse). Because we used Lombok, the code won't compile unless your IDE is told to look for those @Data and @RequiredArgsConstructor tags!
 
 
