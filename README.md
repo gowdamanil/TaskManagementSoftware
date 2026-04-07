@@ -47,6 +47,7 @@ JSON
     "status": "PENDING",
     "dueDate": "2026-12-31"
 }
+
 2. Get Task by ID
 URL: GET /api/v1/tasks/{id}
 
